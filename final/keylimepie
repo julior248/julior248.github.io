@@ -1,1 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Arbor Cafe - Recipe of the Month</title>
+  
+ <link rel="stylesheet" type="text/css" href="styles/final.css" /> 
+ 
+</head>
 
+<body>
+
+<header>
+  <img src="bannerfans_20363811.jpg" alt="Emporium Pies" height="100" width="760">
+</header>
+<nav>
+  <ul>
+    <li><a href="/final/index.html">Home</a></li>
+    <li><a href="/final/specials.html">Specials</a></li>
+    <li><a href="/final/order.html">Order Now!</a></li>
+  </ul>
+</nav>
+<main>
+    <section>
+      <article class="left">
+        <h1>Apple Pie</h1>
+        <h2>Ingredients:</h2>
+
+ <ul>
+  <li>2 1/2 cups all-purpose flour</li>
+  <li>4 teaspoons sugar</li>
+  <li>1/4 teaspoon fine salt1/4 teaspoon fine salt</li>
+  <li>14 tablespoons cold butter, diced</li>
+  <li>1 large egg, lightly beaten with 2 tablespoons cold water</li>
+  <li>3 pounds baking apples like Golden Delicious, Cortland, or Muts</li>
+  <li>2/3 cup sugar, plus more for sprinkling on the pier</li>
+  <li>1/4 cup unsalted butter</li>
+</ul>
+        <h2>Description:</h2>
+<p>This Apple Pie Recipe combines the sweet and tender flavors of baked apples with a deliciously flaky pie crust. Apple pie with ice cream is one of my favorite desserts, and it couldn’t be easier to make homemade!
+
+There is a reason the combination of baked apples, cinnamon, and sugar is an classic pie recipe!</p>
+  <strong>Servings: 8</strong>
+      </article>
+    </section>
+    <aside class="right">
+      
+      <img src="apple pie1.jpg" alt="apple pie" height="350" width="350">
+      
+    </aside>
+  
+</main>
+
+<footer id="footer">
+  <hr>
+  <p><em>5555 White Rock Lake Drive<br>
+    Dallas TX 75238<br>
+    214 224 4245</em></p>
+
+  <p>Last updated: May. 13, 2019</p>
+</footer>
+
+</body>
+</html>
